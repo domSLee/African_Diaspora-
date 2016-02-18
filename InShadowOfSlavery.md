@@ -137,34 +137,42 @@ by European culture
 * become hired out slaves 
 - planters felt it was their right to exploite African women 
 - it is space that determines the degree to which they become Afro-American societies
+
 ###Terms of Significance 
-######assimilation 
+
+__assimilation__
 ..*express the culture expectations 
-..*repress your own culture and adopt the new culture 	 
-######culture 
+..*repress your own culture and adopt the new culture 
+
+__culture__
 ..*system of beliefs and patterns of behavior and a population
-######society
+
+__society__
 ..*a group of people regarded as forming a community 
-######creole 
+
+__creole__
 ..*born in the new world but ancestors from somewhere else 
-######seasoning process		
+
+__seasoning process__		
 ..*exposed to the diseases and the labor process
 ..*they spoke English 
-######provisional trade 
+
+__provisional trade__
 ..*slaves from middle and new england colonies to harvest grain 
 in the northern colonies and it was transported to the Caribbean to 
 feed the slaves there; providing provisions for the slave colonies 
-######mulatto 
+
+__mulatto__
 ..*people of African and European descent; could be individuals of both European and native descent
-######Lemuel Haynes
+__Lemuel Haynes__
 ..*he writes about the horrific the slave trade is and he is anti-christian; encourages American population to abolish slavery; fought in civil war
-######maroon colonies 
+__maroon colonies__
 ..*they have their own government and have treaties
 ..*black majority
-######hired-out slaves 
+__hired-out slaves__
 ..*if lucky allowed to live on their own
 ..*autonomy
-######Gullah 
+__Gullah__
 ..*African language that is developed 
 ##Gomez 
 
