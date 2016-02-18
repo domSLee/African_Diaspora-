@@ -137,33 +137,35 @@ by European culture
 * become hired out slaves 
 - planters felt it was their right to exploite African women 
 - it is space that determines the degree to which they become Afro-American societies
-(2) Terms of Significance 
-assimilation 
-: express the culture expectations 
-- repress your own culture and adopt the new culture 	 
-culture 
-:system of beliefs and patterns of behavior and a population
-society
-: a group of people regarded as forming a community 
-creole 
-: born in the new world but ancestors from somewhere else 
-seasoning process		
-: exposed to the diseases and the labor process
-	-they spoke English 
-provisional trade 
-: slaves from middle and new england colonies to harvest grain 
+###Terms of Significance 
+######assimilation 
+..*express the culture expectations 
+..*repress your own culture and adopt the new culture 	 
+######culture 
+..*system of beliefs and patterns of behavior and a population
+######society
+..*a group of people regarded as forming a community 
+######creole 
+..*born in the new world but ancestors from somewhere else 
+######seasoning process		
+..*exposed to the diseases and the labor process
+..*they spoke English 
+######provisional trade 
+..*slaves from middle and new england colonies to harvest grain 
 in the northern colonies and it was transported to the Caribbean to 
 feed the slaves there; providing provisions for the slave colonies 
-mulatto 
-: people of African and European descent; could be individuals of both European and native descent
-Lemuel Haynes
-: he writes about the horrific the slave trade is and he is anti-christian; encourages American population to abolish slavery; fought in civil war
-maroon colonies 
-: they have their own government and have treaties; black majority
-hired-out slaves 
-: if lucky allowed to live on their own; autonomy
-Gullah 
-: African language that is developed 
+######mulatto 
+..*people of African and European descent; could be individuals of both European and native descent
+######Lemuel Haynes
+..*he writes about the horrific the slave trade is and he is anti-christian; encourages American population to abolish slavery; fought in civil war
+######maroon colonies 
+..*they have their own government and have treaties
+..*black majority
+######hired-out slaves 
+..*if lucky allowed to live on their own
+..*autonomy
+######Gullah 
+..*African language that is developed 
 ##Gomez 
 
 ##In The Shadow Of Slavery;
