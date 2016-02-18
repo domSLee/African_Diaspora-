@@ -1,6 +1,6 @@
-Class Notes 2/16/16 
+#Class Notes 2/16/16 
 
-(1) talk about the way in which people of African descent came to 
+## talk about the way in which people of African descent came to 
 	be known as people of color and African American. 
 	* people in Ghana and other cultures are quite distinct. 
 	* Diasporic Africans are new people because they are not always the same 
@@ -170,10 +170,10 @@ Class Notes 2/16/16
 		- autonomy
 	* Gullah 
 		- African language that is developed 
-Gomez 
-(3) 
-In The Shadow Of Slavery;
-(4) 
+##Gomez 
+
+##In The Shadow Of Slavery;
+ 
 
 
 
