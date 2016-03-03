@@ -40,4 +40,4 @@ Notes3/1/16
 		- root black inferiority in biology not in a condition
 		- pg (177) you can separate a family and their griefs are ...
 		- slave holders reference this document into the 1860s
-		- 
+		-
